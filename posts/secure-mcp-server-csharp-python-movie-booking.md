@@ -1,4 +1,5 @@
 ---
+Author: "Mohammed Iliyas Patel"
 title: "Secure MCP Server in C# and Python: Movie Booking Example"
 description: "Build a secure MCP server in C# and Python with a movie booking example: JWT auth, tool permissions, rate limiting, audit logs and automated tests."
 slug: secure-mcp-server-csharp-python-movie-booking
@@ -1251,33 +1252,9 @@ If recording silently stops capturing denied or limited calls, you gain an accou
 
 ---
 
-## Verification results
-
-Replace this section with real output before publishing.
-
-**C#**
-
-```text
-[AUTHOR: paste the dotnet test summary]
-```
-
-**Python**
-
-```text
-[AUTHOR: paste the pytest summary]
-```
-
-**Activity-record samples**
-
-```json
-[AUTHOR: real sanitized Success, Rejected and RateLimited records]
-```
-
----
-
 ## Sources
 
-Accessed `[AUTHOR: date]`.
+Accessed `[Mohammed iliyas Patel: 14-10-2026]`.
 
 - [MCP specification: authorization](https://modelcontextprotocol.io/specification/latest/basic/authorization)
 - [MCP specification: security best practices](https://modelcontextprotocol.io/specification/latest/basic/security_best_practices)
@@ -1291,7 +1268,3 @@ Accessed `[AUTHOR: date]`.
 - [Securing remote MCP servers in C# (Dev Leader)](https://www.devleader.ca/2026/07/23/securing-remote-mcp-servers-in-c-oauth-20-jwt-and-protected-resource-metadata)
 
 ---
-
-<!-- SEO: add before publishing
-Article JSON-LD, BreadcrumbList JSON-LD, FAQPage JSON-LD (only for FAQs visible on the page),
-canonical URL, architecture diagram with alt text, screenshots with alt text, GitHub repo link above the fold. -->
