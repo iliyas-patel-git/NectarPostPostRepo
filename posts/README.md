@@ -21,4 +21,4 @@ All articles are stored as markdown files (`.md`) formatted with YAML frontmatte
 - `nectarpost-issue-2.md`
 - `news-sentiment-for-trading.md`
 - `position-sizing-risk-basics.md`
-- 'Secure MCP Server in C# and Python: Movie Booking Example.md'
+- 'secure-mcp-server-csharp-python-movie-booking.md'
